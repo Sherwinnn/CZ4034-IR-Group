@@ -1,0 +1,12 @@
+2024-03-30 16:19:38.716 INFO  (main) [   ] o.e.j.u.log Logging initialized @1026ms to org.eclipse.jetty.util.log.Slf4jLog
+2024-03-30 16:19:39.029 INFO  (main) [   ] o.e.j.s.Server jetty-9.4.53.v20231009; built: 2023-10-09T12:29:09.265Z; git: 27bde00a0b95a1d5bbee0eae7984f891d2d0f8c9; jvm 22+36-2370
+2024-03-30 16:19:39.045 INFO  (main) [   ] o.e.j.d.p.ScanningAppProvider Deployment monitor [file:///C:/Users/jacin/OneDrive%20-%20Nanyang%20Technological%20University/Desktop/cz/cz4034/solr-8.11.3/server/contexts/] at interval 0
+2024-03-30 16:19:39.649 INFO  (main) [   ] o.e.j.w.StandardDescriptorProcessor NO JSP Support for /solr, did not find org.apache.jasper.servlet.JspServlet
+2024-03-30 16:19:39.666 INFO  (main) [   ] o.e.j.s.session DefaultSessionIdManager workerName=node0
+2024-03-30 16:19:39.667 INFO  (main) [   ] o.e.j.s.session No SessionScavenger set, using defaults
+2024-03-30 16:19:39.670 INFO  (main) [   ] o.e.j.s.session node0 Scavenging every 660000ms
+2024-03-30 16:19:39.752 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter Using logger factory org.apache.logging.slf4j.Log4jLoggerFactory
+2024-03-30 16:19:39.759 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter  ___      _       Welcome to Apache Solr™ version 8.11.3
+2024-03-30 16:19:39.760 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter / __| ___| |_ _   Starting in cloud mode on port 7574
+2024-03-30 16:19:39.760 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter \__ \/ _ \ | '_|  Install dir: C:\Users\jacin\OneDrive - Nanyang Technological University\Desktop\cz\cz4034\solr-8.11.3
+2024-03-30 16:19:39.760 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter |___/\___/_|_|    Start time: 2024-03-30T16:19:39.760216900Z
