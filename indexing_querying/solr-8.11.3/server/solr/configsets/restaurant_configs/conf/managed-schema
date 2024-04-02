@@ -162,6 +162,7 @@
    <!-- catchall text field that indexes tokens both normally and in reverse for efficient
         leading wildcard queries. -->
    <field name="text_rev" type="text_general_rev" indexed="true" stored="false" multiValued="true"/>
+   
 
 
    <!-- Dynamic field definitions allow using convention over configuration
