@@ -1,0 +1,294 @@
+,title,stars,text,cleaned_reviews,aspects,correct_output,accuracy
+448,Marché Mövenpick VivoCity,4,"Food quality and portion are big. Taste good but service quite bad. Short of staff and tables are not clear. Fruit juice, dessert and ice cream only 1 man handling and queue becomes long. Place wise is good especially now celebrating Oktoberfest","Food quality and portion are big. Taste good but service quite bad. Short of staff and tables are not clear. Fruit juice, dessert and ice cream only 1 man handling and queue becomes long. Place wise is good especially now celebrating Oktoberfest","Oktoberfest: positive, staff: negative, tables: negative, ice cream: neutral, Food quality: positive, dessert: neutral, Taste: neutral, Fruit juice: neutral, service: negative, portion: positive, Place wise: positive","Oktoberfest: positive, staff: negative, tables: negative, ice cream: neutral, Food quality: positive, dessert: neutral, Taste: positive, Fruit juice: neutral, service: negative, portion: positive, Place wise: positive",0.91
+958,Hot Tomato,4,"Yummy and affordable western in Jewel Changi Airport.
+
+✨Chargrilled Chicken Chop @ $11.90
+Well marinated chicken chop which was grilled to give a crispy exterior but tender and flavourful interior topped with your choice of black pepper or teriyaki sauce. Dish came with a side of al dente aglio olio pasta as well as a citrus salad.
+
+✨ must trys!!
+✉️ follow me @BrieVco on Instagram, TikTok and YouTube for more!","Yummy and affordable western in Jewel Changi Airport.
+Chargrilled Chicken Chop @ $11.90
+Well marinated chicken chop which was grilled to give a crispy exterior but tender and flavourful interior topped with your choice of black pepper or teriyaki sauce. Dish came with a side of al dente aglio olio pasta as well as a citrus salad.
+must trys!!
+follow me @BrieVco on Instagram, TikTok and YouTube for more!","Chargrilled Chicken Chop: neutral, Dish: neutral, black pepper: positive, western: positive, marinated chicken chop: positive","Chargrilled Chicken Chop: positive, Dish: positive, black pepper: positive, western: positive, marinated chicken chop: positive",0.60
+467,Pizza Hut Bedok Mall,5,Despite busy period the staffs are friendly and patient in assisting their customers. The ambient was so homey bcos of the people working at this outlet. Our food was on time and was really delicious.Keep it up team and the girl manager,Despite busy period the staffs are friendly and patient in assisting their customers. The ambient was so homey bcos of the people working at this outlet. Our food was on time and was really delicious.Keep it up team and the girl manager,"girl manager: positive, staffs: positive, food: positive, people working: positive, ambient: positive","girl manager: positive, staffs: positive, food: positive, people working: positive, ambient: positive",1.00
+359,Gaig Singapore,5,"It was my first time at Restaurant Gaig, and I would say the food here is simply amazing!
+
+Restaurant Gaig’s menu showcases Catalan dishes with traditional recipes dating back to the 19th century through Chef Marti’s innovative interpretations. They also have a really good selection of wines that you can consider going with the meal.
+
+Highlight from the new Chef’s Menu ($180++ per diner) focus on the no wastage nose-to-tail Gastronomy – Lamb
+
+Location: Restaurant Gaig,  16 Stanley Street Singapore 068735","It was my first time at Restaurant Gaig, and I would say the food here is simply amazing!
+Restaurant Gaig’s menu showcases Catalan dishes with traditional recipes dating back to the 19th century through Chef Marti’s innovative interpretations. They also have a really good selection of wines that you can consider going with the meal.
+Highlight from the new Chef’s Menu ($180++ per diner) focus on the no wastage nose-to-tail Gastronomy – Lamb
+Location: Restaurant Gaig, 16 Stanley Street Singapore 068735","selection of wines: positive, menu: positive, meal: positive, Location: neutral, Chef’s Menu: positive, food: positive","selection of wines: positive, menu: positive, meal: positive, Location: neutral, Chef’s Menu: positive, food: positive",1.00
+773,Al Rabeca Restaurant 24 Hrs,1,Very bad customer service. One guy in restaurant don't know how to speak with people and is not customer attentive. People wait for him for long time to give orders. Really very pathetic service.,Very bad customer service. One guy in restaurant do not know how to speak with people and is not customer attentive. People wait for him for long time to give orders. Really very pathetic service.,"customer service: negative, customer attentive: negative, People wait for him: negative, service: negative, guy: negative","customer service: negative, customer attentive: negative, People wait for him: negative, service: negative, guy: negative",1.00
+661,Broadway Food Centre,5,Vegetarian very nice,Vegetarian very nice,Vegetarian: positive,Vegetarian: positive,1.00
+887,Poulet - Causeway Point,5,"Nice french restaurant. Service workers very nice and polite. Food is solid. Please try the BBQ chicken. It's nice. Dessert glass made of plastic, cannot carry my dessert spoon, other than that, it's all good.","Nice french restaurant. Service workers very nice and polite. Food is solid. Please try the BBQ chicken. It is nice. Dessert glass made of plastic, cannot carry my dessert spoon, other than that, it is all good.","Food: positive, Dessert glass made of plastic: neutral, dessert spoon: neutral, Service workers: positive, french restaurant: positive, BBQ chicken: positive","Food: positive, Dessert glass made of plastic: neutral, dessert spoon: neutral, Service workers: positive, french restaurant: positive, BBQ chicken: positive",1.00
+328,New Mahamoodiya Restaurant,5,"My go-to place for delicious crispy prata!
+
+Their Coin Prata was well fried with a good amount of crisp. I usually go for the mutton option but decided to try the chicken which was equally good, although much lesser meat.
+
+The Masala Dosa was served with a generous amount of aloo potato and went really well with the sauces - well worth the $3.50.
+
+I always order my favourite egg onion prata and to my pleasant surprise the egg yolk came slightly runny today! Damn good I hope they make it like this every time. The fish curry and sambal are good as usual.
+
+Looking forward to my next visit already 😋","My go-to place for delicious crispy prata!
+Their Coin Prata was well fried with a good amount of crisp. I usually go for the mutton option but decided to try the chicken which was equally good, although much lesser meat.
+The Masala Dosa was served with a generous amount of aloo potato and went really well with the sauces - well worth the $3.50.
+I always order my favourite egg onion prata and to my pleasant surprise the egg yolk came slightly runny today! Damn good I hope they make it like this every time. The fish curry and sambal are good as usual.
+Looking forward to my next visit already","sambal: positive, sauces: positive, Masala Dosa: positive, mutton option: neutral, Coin Prata: positive, meat: neutral, egg onion prata: neutral, fish curry: positive, crispy: positive, chicken: neutral, aloo potato: positive, egg yolk: negative, crispy prata: positive","sambal: positive, sauces: positive, Masala Dosa: positive, mutton option: neutral, Coin Prata: positive, meat: neutral, egg onion prata: positive, fish curry: positive, crispy: positive, chicken: positive, aloo potato: positive, egg yolk: positive, crispy prata: positive",0.77
+830,Cheese Story Mookata Buffet,4,"For less than $30/ pax, you get free flow servings of seafood, meats and drinks (including Thai milk tea and ice-cream!). Definitely a must go place for mookata lovers. Coupled with the unique Thai ambience of the building, I am loathe to share this but since the building is about to go soon… don’t miss it!","For less than $30/ pax, you get free flow servings of seafood, meats and drinks (including Thai milk tea and ice-cream!). Definitely a must go place for mookata lovers. Coupled with the unique Thai ambience of the building, I am loathe to share this but since the building is about to go soon… do not miss it!","meats: neutral, drinks: neutral, seafood: neutral, building: positive, Thai ambience: positive, mookata: positive","meats: neutral, drinks: neutral, seafood: neutral, building: positive, Thai ambience: positive, mookata: positive",1.00
+450,Yoshinoya - Junction 8,3,"Went there and order a set of ramen with ice cream and hot tea. Atmosphere is nice,family friendly. Staffs are nice and polite.
+
+But there are few areas that I hope the restaurant could improve on:
+
+1) the ramen soup was very salty. ( I don't know if it's my personal opinion, but this is the saltiest soup I've ever tasted.)
+
+2) Dessert is served together with the food. By the time I've finished my ramen,my ice cream have already melted. ( From my experience dining in other restaurants, usually after u had finished your meal, then you request the staff for your dessert)
+
+3) Hot tea is served in a porcelain cup, which make it too hot to even hold it. ( I could only able to drink it after it became cool tea 😭)
+
+If all the above can be improved,I don't mind coming again. If not, this might be my last time dining here again.","Went there and order a set of ramen with ice cream and hot tea. Atmosphere is nice,family friendly. Staffs are nice and polite.
+But there are few areas that I hope the restaurant could improve on:
+1) the ramen soup was very salty. ( I do not know if it is my personal opinion, but this is the saltiest soup I have ever tasted.)
+2) Dessert is served together with the food. By the time I have finished my ramen,my ice cream have already melted. ( From my experience dining in other restaurants, usually after you had finished your meal, then you request the staff for your dessert)
+3) Hot tea is served in a porcelain cup, which make it too hot to even hold it. ( I could only able to drink it after it became cool tea )
+If all the above can be improved,I do not mind coming again. If not, this might be my last time dining here again.","Hot tea: neutral, hot tea: neutral, staff: neutral, dining: neutral, ice cream: neutral, tea: neutral, Atmosphere: positive, Staffs: positive, porcelain cup: negative, ramen soup: negative, ramen: neutral, soup: neutral, meal: neutral, ramen with ice cream: neutral","Hot tea: neutral, hot tea: neutral, staff: neutral, dining: neutral, ice cream: neutral, tea: neutral, Atmosphere: positive, Staffs: positive, porcelain cup: negative, ramen soup: negative, ramen: neutral, soup: neutral, meal: neutral, ramen with ice cream: neutral",1.00
+601,Ajisen Ramen,1,"absolute disappointing staff service and dining experience.
+my phone battery was left with less than 10% and i asked if i could charge my phone. (let's be honest in this century you can't do anything without a phone) the staff and manager told me charging phone for a customer is not allowed.
+
+i replied ""how am i supposed to leave this place and book a grab without a phone? and i don't carry wallet, i use apple pay. with no phone i can't pay for your ramen here""
+
+they then replied ""then u can pay now beforehand""
+
+lol absolutely unbelievable, extremely appalled by their response. never coming back here again.","absolute disappointing staff service and dining experience.
+my phone battery was left with less than 10% and i asked if i could charge my phone. (let us be honest in this century you cannot do anything without a phone) the staff and manager told me charging phone for a customer is not allowed.
+i replied ""how am i supposed to leave this place and book a grab without a phone? and i do not carry wallet, i use apple pay. with no phone i cannot pay for your ramen here""
+they then replied ""then you can pay now beforehand""
+lol absolutely unbelievable, extremely appalled by their response. never coming back here again.","dining experience: negative, manager: negative, phone battery: negative, staff: negative, apple pay: neutral, staff service: negative, ramen: neutral, grab: neutral","dining experience: negative, manager: negative, phone battery: negative, staff: negative, apple pay: neutral, staff service: negative, ramen: neutral, grab: neutral",1.00
+649,Sol & Ora,5,"Sol & Ora has a lovely dining area and when you go around the 3pm-4pm time slot, the lighting and view is fantastic for food shots and photos! The waitstaff was friendly and kind to us as we were dining and their afternoon tea is delicious and had just the right portions without having you feel too full. Highly recommended and will be back again!","Sol & Ora has a lovely dining area and when you go around the 3pm-4pm time slot, the lighting and view is fantastic for food shots and photos! The waitstaff was friendly and kind to us as we were dining and their afternoon tea is delicious and had just the right portions without having you feel too full. Highly recommended and will be back again!","portions: positive, dining area: positive, afternoon tea: positive, food shots: positive, lighting: positive, view: positive, waitstaff: positive","portions: positive, dining area: positive, afternoon tea: positive, food shots: positive, lighting: positive, view: positive, waitstaff: positive",1.00
+581,McDonald's HDB Hub,1,"Takeaway big breakfast meal with corn options.
+But no spoon, no butter for corn?
+Inside big breakfast don't have hashbrown also.","Takeaway big breakfast meal with corn options.
+But no spoon, no butter for corn?
+Inside big breakfast do not have hashbrown also.","breakfast: negative, Takeaway big breakfast meal with corn options: positive, spoon: neutral, hashbrown: negative, butter for corn: neutral","breakfast: negative, Takeaway big breakfast meal with corn options: positive, spoon: negative, hashbrown: negative, butter for corn: negative",0.60
+277,Pura Brasa Singapore,4,"The atmosphere can feel a little bright during the day but it’s not too noisy. It can get cold with the strong aircon. The food was good, especially recommend the paella!","The atmosphere can feel a little bright during the day but it is not too noisy. It can get cold with the strong aircon. The food was good, especially recommend the paella!","paella: positive, atmosphere: negative, food: positive, aircon: negative","paella: positive, atmosphere: positive, food: positive, aircon: negative",0.50
+910,Chong Qing Grilled Fish Upper Thomson,4,"Nice and tasty food. If you love spicy, come here!! Fish is so fresh that it went so well with the rice. Though the quality of rice can be improved.
+
+I called before hand to book a table and the waitress was very nice to assist a last minute booking.
+
+The Lala was not great a rather expensive so can skip. Vegetable wasn’t nice too.
+
+As we order whole fish, sweet sour pork (super nice) and a few other dishes, we could not try the skewers. Will be back to try them.","Nice and tasty food. If you love spicy, come here!! Fish is so fresh that it went so well with the rice. Though the quality of rice can be improved.
+I called before hand to book a table and the waitress was very nice to assist a last minute booking.
+The Lala was not great a rather expensive so can skip. Vegetable was not nice too.
+As we order whole fish, sweet sour pork (super nice) and a few other dishes, we could not try the skewers. Will be back to try them.","Vegetable: negative, quality of rice: negative, dishes: neutral, Lala: negative, whole fish: neutral, sweet sour pork: neutral, rice: positive, waitress: positive, food: positive, table: positive, spicy: positive, Fish: positive","Vegetable: negative, quality of rice: negative, dishes: neutral, Lala: negative, whole fish: neutral, sweet sour pork: positive, rice: negative, waitress: positive, food: positive, table: positive, spicy: positive, Fish: positive",0.83
+944,Canton Paradise,5,"We went to Canton Paradise bedok mall on a weekday afternoon to take advantage of their 40% off promotion for dim sum and noodles. However, we were frustrated by the service and the waiting time. The restaurant was very crowded with a very loud elderly crowd and the wait staff were slow and inattentive. I had to wait for more than 20 minutes to get my food. The only redeeming factor was that the food was yummy. The dim sum was fresh and juicy, and the noodles was authentically 'Hong Kong' and flavorful.  We enjoyed the food, but not so much the experience. This particular outlet needs to improve their service and efficiency, especially during peak hours.","We went to Canton Paradise bedok mall on a weekday afternoon to take advantage of their 40% off promotion for dim sum and noodles. However, we were frustrated by the service and the waiting time. The restaurant was very crowded with a very loud elderly crowd and the wait staff were slow and inattentive. I had to wait for more than 20 minutes to get my food. The only redeeming factor was that the food was yummy. The dim sum was fresh and juicy, and the noodles was authentically 'Hong Kong' and flavorful. We enjoyed the food, but not so much the experience. This particular outlet needs to improve their service and efficiency, especially during peak hours.","experience: negative, noodles: neutral, waiting time: negative, restaurant: negative, efficiency: negative, food: positive, service: negative, food: neutral, dim sum: neutral","experience: negative, noodles: positive, waiting time: negative, restaurant: negative, efficiency: negative, food: positive, service: negative, food: neutral, dim sum: positive",0.78
+567,Cosmo Bar & Restaurant @ Capri Changi City,4,"We like the service of Kay.very polite and helpful.
+Gd service.
+We like her very much","We like the service of Kay.very polite and helpful.
+Gd service.
+We like her very much","service: neutral, service: positive","service: neutral, service: positive",1.00
+106,Nana Original Thai Food Clementi,4,"Remembered this Thai restaurant has been around for a long time. Find it very interesting, because you will have to scan the menu, which will lead you to the grab platform. Find it not so user friendly. 🤔🤔 for customers who don’t have Grab app.. alittle hard to order.
+
+The serving of the food was prompt. We prefer the clear Tom Yum Soup! 🥘 But will opt for seafood option next time. the portion for the egg omelette fried rice was superb, to feed 6 pax. We ordered the basil pork too. Not too spicy. Price I would say still okay!
+
+Find the Thai milk tea and lemon tea alittle too diluted though. May not order their drinks next time.
+
+Would say it is a nice Thai Zhi Char restaurant.","Remembered this Thai restaurant has been around for a long time. Find it very interesting, because you will have to scan the menu, which will lead you to the grab platform. Find it not so user friendly. for customers who do not have Grab app.. alittle hard to order.
+The serving of the food was prompt. We prefer the clear Tom Yum Soup! But will opt for seafood option next time. the portion for the egg omelette fried rice was superb, to feed 6 pax. We ordered the basil pork too. Not too spicy. Price I would say still okay!
+Find the Thai milk tea and lemon tea alittle too diluted though. May not order their drinks next time.
+Would say it is a nice Thai Zhi Char restaurant.","Tom Yum Soup: neutral, grab platform: neutral, menu: neutral, serving of the food: positive, basil pork: neutral, Thai milk tea: neutral, drinks: neutral, seafood option: neutral, lemon tea: neutral, portion for egg omelette fried rice: positive, Price: neutral, Grab app: negative","Tom Yum Soup: neutral, grab platform: neutral, menu: neutral, serving of the food: positive, basil pork: neutral, Thai milk tea: negative, drinks: negative, seafood option: neutral, lemon tea: negative, portion for egg omelette fried rice: positive, Price: neutral, Grab app: negative",0.83
+587,Ariff's Restaurant Authentic indian And Muslim Cuisine,1,"Just don't order the food from them in panda. Food is totally cold when arrive and uneatable, have to throw away. Total waste of money.","Just do not order the food from them in panda. Food is totally cold when arrive and uneatable, have to throw away. Total waste of money.","panda: neutral, Food: negative, food: neutral","panda: neutral, Food: negative, food: neutral",1.00
+55,MOS Burger,1,My takeaway burger was cold and the cheese hasn’t melted :( the bun hasn’t been heat up too. Taste different from last time,My takeaway burger was cold and the cheese has not melted :( the bun has not been heat up too. Taste different from last time,"takeaway burger: negative, cheese: negative, Taste: negative, bun: negative","takeaway burger: negative, cheese: negative, Taste: negative, bun: negative",1.00
+213,Volta Bistro,1,"Food was absolutely terrible and overpriced. Aglio Olio tasted very bland and the hamburg steak portion was pathetic it tasted like a mcdonald’s patty in meatball form and had no other sides but just veggies.
+Total for this with two can drinks cost $42, vibe there was just the owner inviting all his other friends over for fun.","Food was absolutely terrible and overpriced. Aglio Olio tasted very bland and the hamburg steak portion was pathetic it tasted like a mcdonald’s patty in meatball form and had no other sides but just veggies.
+Total for this with two can drinks cost $42, vibe there was just the owner inviting all his other friends over for fun.","Aglio Olio: negative, can drinks: neutral, Food: negative, owner: positive, hamburg steak portion: negative, veggies: neutral","Aglio Olio: negative, can drinks: neutral, Food: negative, owner: positive, hamburg steak portion: negative, veggies: neutral",1.00
+120,Al Hadheerah Restaurant (HDB Hub),5,"Excelent plain pratas (one of the best in Singapore)
+Best teh halia.
+Good dum biryani (only every Friday)
+Decent selections for mixed rice meals.
+Good People too.
+
+Been eating there almost daily since They started their shop in Toa Payoh interchange.","Excelent plain pratas (one of the best in Singapore)
+Best teh halia.
+Good dum biryani (only every Friday)
+Decent selections for mixed rice meals.
+Good People too.
+Been eating there almost daily since They started their shop in Toa Payoh interchange.","dum biryani: positive, selections for mixed rice meals: positive, plain pratas: positive, People: positive, teh halia: positive","dum biryani: positive, selections for mixed rice meals: positive, plain pratas: positive, People: positive, teh halia: positive",1.00
+506,KNS Restaurant,1,"Terrible place! Ordered through Food panda and the food we received were horrible! We ordered Kway Teow goreng pattaya and nasi goreng paprik. The nasi goreng paprik was full of onions, no cauliflower or long beans! Tiny pieces of chicken. As for the kway teow...  it was just omelette plop on top instead of wrapping it, the taste for both was horrendous!! Nasi goreng paprik, but it was just heavily peppered fried rice with curry chicken!!! At least inform the customer if it isn't available instead of just replacing it with whatever! KNS, fitting for its name, KANASAI!!","Terrible place! Ordered through Food panda and the food we received were horrible! We ordered Kway Teow goreng pattaya and nasi goreng paprik. The nasi goreng paprik was full of onions, no cauliflower or long beans! Tiny pieces of chicken. As for the kway teow... it was just omelette plop on top instead of wrapping it, the taste for both was horrendous!! Nasi goreng paprik, but it was just heavily peppered fried rice with curry chicken!!! At least inform the customer if it is not available instead of just replacing it with whatever! KNS, fitting for its name, KANASAI!!","kway teow: negative, onions: neutral, pieces of chicken: negative, Kway Teow goreng pattaya: neutral, nasi goreng paprik: neutral, fried rice with curry chicken: negative, place: negative, Food panda: negative, food: negative, Nasi goreng paprik: negative","kway teow: negative, onions: neutral, pieces of chicken: negative, Kway Teow goreng pattaya: negative, nasi goreng paprik: negative, fried rice with curry chicken: negative, place: negative, Food panda: negative, food: negative, Nasi goreng paprik: negative",0.90
+25,Pixy Restaurant & Bar,2,"Had a good dining experience about two to three years ago during the Covid period. Came back to Pixy for the second time for dinner.
+
+We ordered three dishes - bouillabaisse, grilled iberico pork collar and grilled squid, squid ink risotto. In general, the taste of the dishes is decent but we had some issues with the freshness and texture of the ingredients.
+
+The bouillabaisse consist of two pieces of cuttlefish tentacles, one scallop, two prawns, three pieces of mackerel and some clams. Some of the ingredients wasn’t fresh and we highlighted it to the chef. He claimed that the prawns were frozen. The taste was definitely not sweet (menu indicated that it’s sweet prawn) and was mushy. The clams tasted bland, overcooked and soft. This dish is a chef’s recommendation but I definitely wouldn’t recommend it.
+
+The taste of the grilled iberico pork collar was nice but it was at least 50% fat. Have tasted many iberico pork collar before but never this fat. The accompanying sides were decent.
+
+The grilled squid was nicely done. However the risotto’s in the grilled squid was like a paste.
+
+Overall the ambiance and service was nice but all the three dishes were underwhelming. It’s also unusual that a restaurant of that size has only one chef and one server on a Saturday evening.","Had a good dining experience about two to three years ago during the Covid period. Came back to Pixy for the second time for dinner.
+We ordered three dishes - bouillabaisse, grilled iberico pork collar and grilled squid, squid ink risotto. In general, the taste of the dishes is decent but we had some issues with the freshness and texture of the ingredients.
+The bouillabaisse consist of two pieces of cuttlefish tentacles, one scallop, two prawns, three pieces of mackerel and some clams. Some of the ingredients was not fresh and we highlighted it to the chef. He claimed that the prawns were frozen. The taste was definitely not sweet (menu indicated that it is sweet prawn) and was mushy. The clams tasted bland, overcooked and soft. This dish is a chef’s recommendation but I definitely would not recommend it.
+The taste of the grilled iberico pork collar was nice but it was at least 50% fat. Have tasted many iberico pork collar before but never this fat. The accompanying sides were decent.
+The grilled squid was nicely done. However the risotto’s in the grilled squid was like a paste.
+Overall the ambiance and service was nice but all the three dishes were underwhelming. It is also unusual that a restaurant of that size has only one chef and one server on a Saturday evening.","dinner: neutral, chef: negative, dishes: negative, bouillabaisse: neutral, prawns: negative, texture: neutral, iberico pork collar: negative, ingredients: neutral, taste of the dishes: neutral, scallop: neutral, fat: negative, ambiance: positive, grilled squid: positive, risotto’s in the grilled squid: negative, service: negative, server: neutral, dish: neutral, freshness: neutral, ingredients: negative, accompanying sides: positive, taste: negative, prawns: neutral, prawn: negative, dining experience: positive, taste of the grilled iberico pork collar: positive, chef: neutral, clams: negative","dinner: neutral, chef: negative, dishes: negative, bouillabaisse: neutral, prawns: negative, texture: negative, iberico pork collar: negative, ingredients: negative, taste of the dishes: negative, scallop: neutral, fat: negative, ambiance: positive, grilled squid: positive, risotto’s in the grilled squid: negative, service: negative, server: neutral, dish: negative, freshness: negative, ingredients: negative, accompanying sides: positive, taste: negative, prawns: neutral, prawn: negative, dining experience: positive, taste of the grilled iberico pork collar: positive, chef: neutral, clams: negative",0.85
+72,Al Barakath Restaurant,5,Visit for the best Indian Food in Toh Guan Area,Visit for the best Indian Food in Toh Guan Area,Indian Food: positive,Indian Food: positive,1.00
+578,TANI Bistro & Bar | Authentic and Traditional Indian Restaurant | Affordable Indian Food,5,"Food is super good, flavour on point. Tandoori chicken was so fresh and tender. MASALA TEA MUST TRY!!!! 👍","Food is super good, flavour on point. Tandoori chicken was so fresh and tender. MASALA TEA MUST TRY!!!!","Tandoori chicken: positive, MASALA TEA: positive, Food: positive","Tandoori chicken: positive, MASALA TEA: positive, Food: positive",1.00
+44,Foliage Restaurant,5,Same familiar magic of allium in a brand new avatar.,Same familiar magic of allium in a brand new avatar.,magic of allium: neutral,magic of allium: neutral,1.00
+584,Neon Pigeon,5,"First time and loved the vibe. The food was generally good. In particular the sides. The scallops, prawn sushi roll and grilled octopus. The pork was a tad tough but the taste of the meats were good. Will come back again!","First time and loved the vibe. The food was generally good. In particular the sides. The scallops, prawn sushi roll and grilled octopus. The pork was a tad tough but the taste of the meats were good. Will come back again!","pork: negative, scallops: neutral, prawn sushi roll: neutral, sides: neutral, vibe: positive, taste of the meats: positive, food: positive","pork: negative, scallops: neutral, prawn sushi roll: neutral, sides: neutral, vibe: positive, taste of the meats: positive, food: positive",1.00
+370,Saffrons @ 201D,4,"Frequent patron for saffrons as I live nearby..
+food standards hasn’t dropped, long time staff service is also good
+I only have an issue with the new cashier; some uncle wearing specs..always wear grey. either he can’t hear properly when taking order or he cannot understand difficult order request like spicy and all. He needs training lol cuz he keeps asking me to slow down when my order is already relayed to him slowly and clearly 🤦🏻‍♀️","Frequent patron for saffrons as I live nearby..
+food standards has not dropped, long time staff service is also good
+I only have an issue with the new cashier; some uncle wearing specs..always wear grey. either he cannot hear properly when taking order or he cannot understand difficult order request like spicy and all. He needs training lol cuz he keeps asking me to slow down when my order is already relayed to him slowly and clearly","food standards: positive, staff service: positive, saffrons: positive, uncle wearing specs: negative, cashier: negative","food standards: positive, staff service: positive, saffrons: positive, uncle wearing specs: negative, cashier: negative",1.00
+331,Yoshiya,5,"Update: 18 Dec 23, Lunch:
+Celebrated my 59th Birthday, the sashimi plate was really value for money, so fresh and thick pieces. Service was great! Keep it up!! 😊
+
+23 Nov 23: Thanksgiving Dinner:
+It was a surprisingly good value for money Thanksgiving dinner.. 😋","Update: 18 Dec 23, Lunch:
+Celebrated my 59th Birthday, the sashimi plate was really value for money, so fresh and thick pieces. Service was great! Keep it up!!
+23 Nov 23: Thanksgiving Dinner:
+It was a surprisingly good value for money Thanksgiving dinner..","pieces: positive, sashimi plate: positive, Thanksgiving Dinner: neutral, value for money Thanksgiving dinner: positive, Service: positive, Lunch: neutral","pieces: positive, sashimi plate: positive, Thanksgiving Dinner: neutral, value for money Thanksgiving dinner: positive, Service: positive, Lunch: neutral",1.00
+381,Pizza Hut Bedok Mall,2,"Ordered delivery from the store on New Years Eve, understand that it’s a busy period and they missed my garlic bread order. However, 2 of my feedback on this issue via website has been unresponsive. Would appreciate a reply.","Ordered delivery from the store on New Years Eve, understand that it is a busy period and they missed my garlic bread order. However, 2 of my feedback on this issue via website has been unresponsive. Would appreciate a reply.","delivery: negative, garlic bread: negative","delivery: negative, garlic bread: negative",1.00
+380,Sankranti Restaurant,1,"Ordered mutton bryani.
+Food was cold! Top part was hot bottom part was cold!
+
+Whole restaurant only 3-5 people when i vist at around 4.35pm on 1jan2024.
+
+The first thing the service staff tell me is no more food. Only left mutton bryani which is the food i wanted to eat.
+He doesnt seem to be interested as i was not done with my order. I had to call him before he left after serving another family to follow up on my order.
+And prior to my order he didnt even bother to give us a menu and insisted only left bryani and we had to ask for drinks menu to catch some of the drinks that are supposedly still available.
+
+Food had 1 small hair on my yogurt! Can see in photo! Very hard to spot.
+
+My wife had advised me not to visit as the review is bad and as a fan of indian food i couldn’t help myself but go against her advise.
+
+Atmosphere at the cashier have a strong stench smell. The cashier girl only pass us the bank receipt at first, we had to ask for the food receipt then she give us.
+
+How can a restaurant in Jewel be so ^%*]¥}¥^<! Up?
+Can imagine the motivation i had immediately after the meal to send in this review, because to spread awareness so naive patrons be warned and have no regrets 🙏","Ordered mutton bryani.
+Food was cold! Top part was hot bottom part was cold!
+Whole restaurant only 3-5 people when i vist at around 4.35pm on 1jan2024.
+The first thing the service staff tell me is no more food. Only left mutton bryani which is the food i wanted to eat.
+He does not seem to be interested as i was not done with my order. I had to call him before he left after serving another family to follow up on my order.
+And prior to my order he did not even bother to give us a menu and insisted only left bryani and we had to ask for drinks menu to catch some of the drinks that are supposedly still available.
+Food had 1 small hair on my yogurt! Can see in photo! Very hard to spot.
+My wife had advised me not to visit as the review is bad and as a fan of indian food i could not help myself but go against her advise.
+Atmosphere at the cashier have a strong stench smell. The cashier girl only pass us the bank receipt at first, we had to ask for the food receipt then she give us.
+How can a restaurant in Jewel be so ^%*]¥}¥^<! Up?
+Can imagine the motivation i had immediately after the meal to send in this review, because to spread awareness so naive patrons be warned and have no regrets","indian food: negative, Top part: negative, yogurt: neutral, meal: positive, drinks menu: negative, menu: negative, mutton bryani: neutral, service staff: negative, food receipt: negative, stench smell: negative, cashier girl: negative, food: neutral, Food: neutral, Atmosphere at the cashier: negative","indian food: negative, Top part: negative, yogurt: neutral, meal: positive, drinks menu: negative, menu: negative, mutton bryani: neutral, service staff: negative, food receipt: negative, stench smell: negative, cashier girl: negative, food: neutral, Food: neutral, Atmosphere at the cashier: negative",1.00
+1015,Texas Chicken (Causeway Point),2,"Abit confusing when entering for dining. No specific queue on if you are waiting for take away, for collection or for waiting to dine in. There was no one to guide the customer. Look like they are short handed.
+
+Disappointed with the popcorn chicken. Is cold and dry, must well remove from the menu.","Abit confusing when entering for dining. No specific queue on if you are waiting for take away, for collection or for waiting to dine in. There was no one to guide the customer. Look like they are short handed.
+Disappointed with the popcorn chicken. Is cold and dry, must well remove from the menu.","queue: neutral, dining: neutral, take away: neutral, menu: neutral, dine in: neutral, collection: neutral, popcorn chicken: negative","queue: negative, dining: neutral, take away: neutral, menu: neutral, dine in: neutral, collection: neutral, popcorn chicken: negative",0.86
+823,Greenhouse Bistro,5,"Nice cozy atmosphere with a good variety of food options, from western to japanese to chinese. The oysters are great as well!","Nice cozy atmosphere with a good variety of food options, from western to japanese to chinese. The oysters are great as well!","atmosphere: positive, food options: positive, oysters: positive","atmosphere: positive, food options: positive, oysters: positive",1.00
+394,Man Zhu Steamboat Restaurant,4,"Their food was as authentic as you could get in China. The crowd was also mostly Chinese nationals so again it says a lot about authenticity of this place.
+
+Dishes were served in speedy fashion, the chefs were utterly brutal in their execution; dishing out item after items in record time. Please make a reservation prior to heading over. I overheard from the staff speaking to a walk-in customer that there’s 8 more names in the waiting list.
+
+Have to drop one star because of the sanitary conditions of the place. As it’s a really small establishment, everything seems very cramped and a few times I have to walk like a crab just to get back to my table.
+
+Floor was sticky at most areas and towards the back of the shop it was wet with grey most stains all over. Imagine a wet market walkway. You’ll get the drift.
+
+Probably the best way to enjoy this will be to order take out and eat in the comfort of your home if you’re picky with cleanliness.","Their food was as authentic as you could get in China. The crowd was also mostly Chinese nationals so again it says a lot about authenticity of this place.
+Dishes were served in speedy fashion, the chefs were utterly brutal in their execution; dishing out item after items in record time. Please make a reservation prior to heading over. I overheard from the staff speaking to a walk-in customer that there is 8 more names in the waiting list.
+Have to drop one star because of the sanitary conditions of the place. As it is a really small establishment, everything seems very cramped and a few times I have to walk like a crab just to get back to my table.
+Floor was sticky at most areas and towards the back of the shop it was wet with grey most stains all over. Imagine a wet market walkway. You will get the drift.
+Probably the best way to enjoy this will be to order take out and eat in the comfort of your home if you are picky with cleanliness.","sanitary conditions: negative, establishment: negative, Floor: negative, reservation: neutral, staff: negative, eat: neutral, waiting list: negative, cleanliness: neutral, stains: negative, take out: neutral, crowd: positive, everything: negative, food: positive","sanitary conditions: negative, establishment: negative, Floor: negative, reservation: neutral, staff: negative, eat: neutral, waiting list: negative, cleanliness: neutral, stains: negative, take out: neutral, crowd: negative, everything: neutral, food: positive",0.85
+653,Sol & Ora,5,"Sol & Ora
+
+Located on a quiet level of The Outpost Hotel Sentosa, Sol & Ora is a Mediterranean cuisine restaurant with a Latin vibe.
+
+What caught my attention were the Greek dishes on the menu. The only thing that came to my mind was Ouzo,  a dry anise-flavored aperitif that is widely consumed in Greece.
+
+However, other than some of the Greek wines, I see no Ouzo. I tried my luck and asked the restaurant manager, who is a Russian-Greek, to offer me his private stash of Ouzo.
+
+He explained that as there is only a small committee of Greeks in Singapore, not many restaurants or people will know such a spirit. Well, I'm sure glad that I asked.
+
+Spirits aside, food and service were great. The restaurant manager was jovial and able to recommend wine pairing dishes.
+
+The octopus dish is a must-order dish. The parma hams blended so well with the unsalted octopus and well grilled potatoes.
+
+Food: 🍻 🍻
+Service: 🍻 🍺 (Though service was good, dining experience somehow affected by the loud conversations going on in the open kitchen by the kitchen staff)
+Price: 🍻 🍻 (For the food quality and service, I'm willing to pay)
+Will go again: 🍻 🍻 🍺","Sol & Ora
+Located on a quiet level of The Outpost Hotel Sentosa, Sol & Ora is a Mediterranean cuisine restaurant with a Latin vibe.
+What caught my attention were the Greek dishes on the menu. The only thing that came to my mind was Ouzo, a dry anise-flavored aperitif that is widely consumed in Greece.
+However, other than some of the Greek wines, I see no Ouzo. I tried my luck and asked the restaurant manager, who is a Russian-Greek, to offer me his private stash of Ouzo.
+He explained that as there is only a small committee of Greeks in Singapore, not many restaurants or people will know such a spirit. Well, I am sure glad that I asked.
+Spirits aside, food and service were great. The restaurant manager was jovial and able to recommend wine pairing dishes.
+The octopus dish is a must-order dish. The parma hams blended so well with the unsalted octopus and well grilled potatoes.
+Food:
+Service: (Though service was good, dining experience somehow affected by the loud conversations going on in the open kitchen by the kitchen staff)
+Price: (For the food quality and service, I am willing to pay)
+Will go again:","Mediterranean cuisine restaurant: positive, service: positive, parma hams: positive, Food: neutral, dining experience: negative, unsalted octopus: positive, Greek dishes on the menu: positive, Price: neutral, manager: neutral, food quality: positive, manager: positive, Latin vibe: positive, Ouzo: neutral, octopus dish: positive, Service: neutral, Sol & Ora: neutral, Greek wines: neutral, anise-flavored aperitif: neutral, wine pairing dishes: positive, kitchen staff: negative, food: positive","Mediterranean cuisine restaurant: positive, service: positive, parma hams: positive, Food: neutral, dining experience: negative, unsalted octopus: positive, Greek dishes on the menu: positive, Price: neutral, manager: neutral, food quality: positive, manager: positive, Latin vibe: positive, Ouzo: neutral, octopus dish: positive, Service: neutral, Sol & Ora: neutral, Greek wines: neutral, anise-flavored aperitif: neutral, wine pairing dishes: positive, kitchen staff: negative, food: positive",1.00
+333,Crystal Jade La Mian Xiao Long Bao,5,"Seeing the steak restaurant next door priced at 32.9 dollars, I immediately decided to dine at Crystal Jade.
+
+A bowl of hot noodle soup must be the warmest treat for passengers traveling on planes or connecting flights. For diners who don't eat pork, you can order the beef brisket noodles and shrimp dumplings.
+
+🥩Beef Brisket Noodles
+The soup base is reasonably rich, without any surprises, in a typical Chinese culinary style. The beef and brisket pieces are quite large, making it more satisfying than scallion oil noodles.
+
+🥩Shrimp Dumplings
+These are large shrimp dumplings, following the Cantonese style. The dumplings are a bit dry, suitable for quick meals.
+
+🥩Bamboo Shoots
+This seems to be a specialty side dish at Jade Kitchen, ordered by almost every table. However, it has a peculiar taste, with too much sugar, resulting in less saltiness. It's the kind of dish where you can feel a novice chef trying hard to cook, but no matter what, they can't achieve a consistent and flavorful seasoning. However, when eaten with the rich soup-based noodles, it creates a unique combination. It's a magical dish and a specialty of this restaurant. But at 8.8 bucks
+the price seems a bit high, considering you get only a small portion of bamboo shoots, around 100g.
+
+If you only eat the noodles, it might offer better value for money. Overall, it's not a disappointing choice.","Seeing the steak restaurant next door priced at 32.9 dollars, I immediately decided to dine at Crystal Jade.
+A bowl of hot noodle soup must be the warmest treat for passengers traveling on planes or connecting flights. For diners who do not eat pork, you can order the beef brisket noodles and shrimp dumplings.
+Beef Brisket Noodles
+The soup base is reasonably rich, without any surprises, in a typical Chinese culinary style. The beef and brisket pieces are quite large, making it more satisfying than scallion oil noodles.
+Shrimp Dumplings
+These are large shrimp dumplings, following the Cantonese style. The dumplings are a bit dry, suitable for quick meals.
+Bamboo Shoots
+This seems to be a specialty side dish at Jade Kitchen, ordered by almost every table. However, it has a peculiar taste, with too much sugar, resulting in less saltiness. It is the kind of dish where you can feel a novice chef trying hard to cook, but no matter what, they cannot achieve a consistent and flavorful seasoning. However, when eaten with the rich soup-based noodles, it creates a unique combination. It is a magical dish and a specialty of this restaurant. But at 8.8 bucks
+the price seems a bit high, considering you get only a small portion of bamboo shoots, around 100g.
+If you only eat the noodles, it might offer better value for money. Overall, it is not a disappointing choice.","saltiness: negative, soup-based noodles: positive, Beef Brisket Noodles: neutral, sugar: negative, chef: negative, beef brisket noodles: neutral, priced: neutral, shrimp dumplings: neutral, scallion oil noodles: positive, soup base: positive, meals: neutral, Shrimp Dumplings: neutral, seasoning: neutral, treat: positive, noodles: neutral, value for money: neutral, dish: neutral, bowl of hot noodle soup: positive, steak restaurant: neutral, side dish: neutral, dish: positive, Chinese culinary style: positive, dumplings: negative, taste: negative, portion of bamboo shoots: negative, Cantonese style: neutral, price: negative, beef and brisket pieces: positive, Bamboo Shoots: neutral","saltiness: neutral, soup-based noodles: positive, Beef Brisket Noodles: neutral, sugar: negative, chef: negative, beef brisket noodles: neutral, priced: neutral, shrimp dumplings: neutral, scallion oil noodles: positive, soup base: positive, meals: neutral, Shrimp Dumplings: neutral, seasoning: neutral, treat: positive, noodles: neutral, value for money: neutral, dish: neutral, bowl of hot noodle soup: positive, steak restaurant: neutral, side dish: neutral, dish: positive, Chinese culinary style: positive, dumplings: negative, taste: negative, portion of bamboo shoots: negative, Cantonese style: neutral, price: negative, beef and brisket pieces: positive, Bamboo Shoots: neutral",1.00
+447,Al Borgo Italian Restaurant,5,Strongly recommended by a friend to come try. Indeed. Nice authentic Italian restaurant. Great healthy delicious foods and fantastic tiramisu. I enjoyed the nice cup of macchiato too! Must book to get a table.,Strongly recommended by a friend to come try. Indeed. Nice authentic Italian restaurant. Great healthy delicious foods and fantastic tiramisu. I enjoyed the nice cup of macchiato too! Must book to get a table.,"tiramisu: positive, foods: positive, cup of macchiato: positive, Italian restaurant: positive, table: neutral","tiramisu: positive, foods: positive, cup of macchiato: positive, Italian restaurant: positive, table: neutral",1.00
+904,Violet Oon @ Jewel,5,"Been here quite a few times. And the food is consistently good. Recommend the ayam buah keluak, beef rendang, dry laksa noodles. For kids, the nasi goreng (non spicy) is a good choice! I also enjoyed the pulut Hitam!
+
+Service wise, nothing short of stellar. Every time I’m here, Ann gives good recommendations on food choices. However, today in particular, I brought the family (including a newborn baby) and Ann was particularly attentive and considerate to our needs. She even made special arrangements for my baby boy. Such staff should be recognized and I hope the management can note her performance accordingly!
+
+Good food, family friendly. Highly recommend.","Been here quite a few times. And the food is consistently good. Recommend the ayam buah keluak, beef rendang, dry laksa noodles. For kids, the nasi goreng (non spicy) is a good choice! I also enjoyed the pulut Hitam!
+Service wise, nothing short of stellar. Every time I am here, Ann gives good recommendations on food choices. However, today in particular, I brought the family (including a newborn baby) and Ann was particularly attentive and considerate to our needs. She even made special arrangements for my baby boy. Such staff should be recognized and I hope the management can note her performance accordingly!
+Good food, family friendly. Highly recommend.","staff: positive, pulut Hitam: positive, Ann: positive, needs: positive, Service: positive, management: positive, food choices: positive, nasi goreng (non spicy): positive, food: positive, arrangements: positive","staff: positive, pulut Hitam: positive, Ann: positive, needs: positive, Service: positive, management: positive, food choices: positive, nasi goreng (non spicy): positive, food: positive, arrangements: positive",1.00
+715,Nara,3,"This place serve decent Japanese food but the price is a little high . Given the influx of authentic Japanese franchise in the island, the price tag is still stuck in the 90s (plus inflation). Well if you are in the area craving for decent Japanese food and is not willing to travel less than 10mins to orchard road, then this is the option for you. Set bentos for 2 person set you back at the average 70SGD . Overall is good quality but no wow factor .","This place serve decent Japanese food but the price is a little high . Given the influx of authentic Japanese franchise in the island, the price tag is still stuck in the 90s (plus inflation). Well if you are in the area craving for decent Japanese food and is not willing to travel less than 10mins to orchard road, then this is the option for you. Set bentos for 2 person set you back at the average 70SGD . Overall is good quality but no wow factor .","price tag: negative, quality: positive, bentos: neutral, Japanese food: neutral","price tag: negative, quality: positive, bentos: neutral, Japanese food: neutral",1.00
+765,Al Medina Restaurant,5,Newly opened food place that served affordable and generous portion of halal food. My personal favourite dish is the mutton soup. Price is great at $6 for the amount of mutton. The soup is good for cold and raining day. I feel warm after having the soup. Fun and friendly staff who showed the love sign at us when we signaled them for help 😄,Newly opened food place that served affordable and generous portion of halal food. My personal favourite dish is the mutton soup. Price is great at $6 for the amount of mutton. The soup is good for cold and raining day. I feel warm after having the soup. Fun and friendly staff who showed the love sign at us when we signaled them for help,"food place: positive, staff: positive, mutton: positive, portion of halal food: positive, soup: positive, Price: positive","food place: positive, staff: positive, mutton: positive, portion of halal food: positive, soup: positive, Price: positive",1.00
+926,HoHo Korean Restaurant,5,"It was a pleasant experience at the restaurant, the waiters are very friendly and the food was above expectations.
+The price is affordable and the speed of the dishes was very fast too.
+My wife & sister in law was Impress with their Kimchi & I really love their Pancake.","It was a pleasant experience at the restaurant, the waiters are very friendly and the food was above expectations.
+The price is affordable and the speed of the dishes was very fast too.
+My wife & sister in law was Impress with their Kimchi & I really love their Pancake.","waiters: positive, Kimchi: positive, Pancake: positive, speed of the dishes: positive, food: positive, price: positive","waiters: positive, Kimchi: positive, Pancake: positive, speed of the dishes: positive, food: positive, price: positive",1.00
+930,Dalcomhan Bam Korean Restaurant East Village,4,"This place serves up yummy bancan made fresh daily!
+I didn’t have much expectation on this place. But i was left satisfied.
+Would definitely come back for their","This place serves up yummy bancan made fresh daily!
+I did not have much expectation on this place. But i was left satisfied.
+Would definitely come back for their",bancan: positive,bancan: positive,1.00
+209,BOMBAY DINING-NORTH INDIAN RESTAURANT,1,"Paneer shashlik tikka. The worst ever tikka I had in my life. No flavours at all. The chutney as can be seen in rhe photo too much color is added and not at all a tikka chutney by taste. The onions was stale. Had to throw away the whole dinner.
+
+The chilli mushroom was so oily it took me a second glance to understand if it is dry or gravy.
+The schezwan fried rice was full of added color. Pathetic flavour profile.
+
+Had ordered paneer tikka masala few days before (pic not attached) , the color added stayed on the fingertips till the next day.
+
+This restaurant is using way too much color in the food hence the pics look delicious. Perfect case of ""Don't judge the book by it's cover""!
+
+Deliveroo is the delivery partner and as many have reviewed already they have zero say of your food is late. The restaurant phone number kept saying busy for 45mins at a stretch. Deliveroo said we cannot help you contact the restaurant and solve ot at your end!!!!!
+Pathetic restaurant and pathetic service!!","Paneer shashlik tikka. The worst ever tikka I had in my life. No flavours at all. The chutney as can be seen in rhe photo too much color is added and not at all a tikka chutney by taste. The onions was stale. Had to throw away the whole dinner.
+The chilli mushroom was so oily it took me a second glance to understand if it is dry or gravy.
+The schezwan fried rice was full of added color. Pathetic flavour profile.
+Had ordered paneer tikka masala few days before (pic not attached) , the color added stayed on the fingertips till the next day.
+This restaurant is using way too much color in the food hence the pics look delicious. Perfect case of ""Do not judge the book by it is cover""!
+Deliveroo is the delivery partner and as many have reviewed already they have zero say of your food is late. The restaurant phone number kept saying busy for 45mins at a stretch. Deliveroo said we cannot help you contact the restaurant and solve ot at your end!!!!!
+Pathetic restaurant and pathetic service!!","dinner: neutral, Deliveroo: negative, food: negative, flavour profile: negative, food: neutral, chutney: negative, chilli mushroom: negative, tikka: negative, service: negative, restaurant phone number: negative, Paneer shashlik tikka: neutral, paneer tikka masala: neutral, color added: neutral, pics: positive, tikka chutney: neutral, onions: negative, gravy: negative, flavours: neutral, schezwan fried rice: positive","dinner: negative, Deliveroo: negative, food: negative, flavour profile: negative, food: neutral, chutney: negative, chilli mushroom: negative, tikka: negative, service: negative, restaurant phone number: negative, Paneer shashlik tikka: negative, paneer tikka masala: neutral, color added: negative, pics: positive, tikka chutney: negative, onions: negative, gravy: negative, flavours: negative, schezwan fried rice: negative",0.68
+973,Al Rabeca Restaurant 24 Hrs,1,What the point of fan if you did not on it,What the point of fan if you did not on it,noaspectterm: none,noaspectterm: none,1.00
+1037,Indian Tandoor Restaurant,4,Nice food especially the chickpea n the nans but the chicken bryani is abit disappointing as it's already precook so it's not piping hot.,Nice food especially the chickpea n the nans but the chicken bryani is abit disappointing as it is already precook so it is not piping hot.,"food: positive, chickpea n the nans: negative","food: negative, chickpea n the nans: negative",0.50
+490,Kok Sen Restaurant,4,I like the delicious seafood hor fun. I will ask for less salt for Hokkien noodles. The staff is friendly and good customer service.,I like the delicious seafood hor fun. I will ask for less salt for Hokkien noodles. The staff is friendly and good customer service.,"staff: positive, customer service: positive, seafood hor: positive","staff: positive, customer service: positive, seafood hor: positive",1.00
+527,Tangerine,3,"Good place , food is not","Good place , food is not","place: positive, food: neutral","place: positive, food: negative",0.50
+923,Satay Solo,5,"Delicious mee rebus. The gravy is most probably seasoned with either ikan bilis or udang geragau, you can taste a hint of it. One of my mum's fav mee rebus stall. Nasi rawon and jenganan are also good. Expect some queueing in the morning.","Delicious mee rebus. The gravy is most probably seasoned with either ikan bilis or udang geragau, you can taste a hint of it. One of my mum's fav mee rebus stall. Nasi rawon and jenganan are also good. Expect some queueing in the morning.","jenganan: positive, ikan bilis: neutral, mee rebus: positive, gravy: neutral, Nasi rawon: positive, mee rebus stall: positive, queueing: negative","jenganan: positive, ikan bilis: neutral, mee rebus: positive, gravy: neutral, Nasi rawon: positive, mee rebus stall: positive, queueing: negative",1.00
+60,Sapore Italian Restaurant,5,"Been coming here at least once a week for the past 8 years. Good food, good people, good environment. Will continue to come here regularly for the foreseeable future.","Been coming here at least once a week for the past 8 years. Good food, good people, good environment. Will continue to come here regularly for the foreseeable future.","environment: positive, food: positive, people: positive","environment: positive, food: positive, people: positive",1.00
