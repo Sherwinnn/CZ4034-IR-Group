@@ -145,6 +145,7 @@
    <field name="reviewDetailedRatingAtmosphere" type="text_general" indexed="true" stored="true"/>
    <field name="reviewDetailedRatingFood" type="text_general" indexed="true" stored="true"/>
    <field name="reviewDetailedRatingService" type="text_general" indexed="true" stored="true"/>
+   <field name="classPrediction" type="pfloat" indexed="true" stored="true"/>
    <field name="totalScore" type="pfloat" indexed="true" stored="true"/>
    <field name="reviewsCount" type="pint" indexed="true" stored="true"/>
    <field name="street" type="text_general" indexed="true" stored="true"/>
