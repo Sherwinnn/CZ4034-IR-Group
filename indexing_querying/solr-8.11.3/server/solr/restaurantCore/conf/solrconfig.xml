@@ -1572,4 +1572,13 @@
       <str name="fvCacheName">QUERY_DOC_FV</str>
     </transformer>
 
+
+    <schemaFactory class="ManagedIndexSchemaFactory">
+      <bool name="mutable">true</bool>
+      <str name="managedSchemaResourceName">managed-schema</str>
+    </schemaFactory>
+
+    <!--geospatial-->
+
+
 </config>

@@ -145,6 +145,7 @@
    <field name="reviewDetailedRatingAtmosphere" type="text_general" indexed="true" stored="true"/>
    <field name="reviewDetailedRatingFood" type="text_general" indexed="true" stored="true"/>
    <field name="reviewDetailedRatingService" type="text_general" indexed="true" stored="true"/>
+   <field name="classPrediction" type="pint" indexed="true" stored="true"/>
    <field name="totalScore" type="pfloat" indexed="true" stored="true"/>
    <field name="reviewsCount" type="pint" indexed="true" stored="true"/>
    <field name="street" type="text_general" indexed="true" stored="true"/>
@@ -162,6 +163,7 @@
    <!-- catchall text field that indexes tokens both normally and in reverse for efficient
         leading wildcard queries. -->
    <field name="text_rev" type="text_general_rev" indexed="true" stored="false" multiValued="true"/>
+   
 
 
    <!-- Dynamic field definitions allow using convention over configuration
