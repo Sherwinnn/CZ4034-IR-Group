@@ -21,3 +21,4 @@ Datasets:
 - test_data.csv : The test split, with 3 annotators. Not preprocessed.
 - final_cleaned_reviews_J.csv : All reviews, not preprocessed. But has basic duplicate removals done.
 - to_annotate.csv : The test split, no annotations, not preprocessed.
+- test_data_aspect-sentiment pairs.csv : test data with model output for absa, labels and accuracy for each review
