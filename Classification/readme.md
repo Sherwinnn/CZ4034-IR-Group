@@ -1,5 +1,5 @@
 C1_make_data.ipynb
-- This notebook shows the preprocessing code and how train_data.csv and test_data.csv are generated
+- This notebook shows the preprocessing code and how train_data.csv and eval.csv are generated
 
 C2_TFIDF_Models.ipynb
 - TFIDF word representation and all 3 models
